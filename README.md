@@ -65,6 +65,7 @@ I dati utilizzati, se provenienti da enti istituzionali (ISPRA, INGV, Ministero 
 ---
 
 ## Accesso ai dati
+
 https://drive.google.com/drive/folders/1SdphSaPE6m69aj7Mssoh3OO_sxFC_Kmw?usp=drive_link
 
 ---
@@ -72,7 +73,3 @@ https://drive.google.com/drive/folders/1SdphSaPE6m69aj7Mssoh3OO_sxFC_Kmw?usp=dri
 ## Note finali
 
 Questa repository nasce come portfolio personale a scopo accademico e professionale.  
-
-## Accesso ai dati
-
-https://drive.google.com/drive/folders/1SdphSaPE6m69aj7Mssoh3OO_sxFC_Kmw?usp=drive_link
