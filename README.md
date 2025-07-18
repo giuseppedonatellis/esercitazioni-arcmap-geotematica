@@ -66,7 +66,7 @@ I dati utilizzati, se provenienti da enti istituzionali (ISPRA, INGV, Ministero 
 
 ## Accesso ai dati
 
-https://drive.google.com/drive/folders/1SdphSaPE6m69aj7Mssoh3OO_sxFC_Kmw?usp=drive_link
+https://drive.google.com/drive/folders/1erE639aWDX-nsBeutEUPYkNKl_IPv5fO?usp=drive_link
 
 ---
 
