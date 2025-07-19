@@ -54,7 +54,10 @@ Per ogni esercitazione troverai:
 Giuseppe Donatellis, studente magistrale in Scienze Naturali - Università degli Studi di Napoli Federico II
 Corso: GIS e Cartografia Geotematica
 
-Software utilizzato: ArcMap 10.3.1 (Esri)
+---
+
+## Software utilizzato: 
+- ArcMap 10.3.1 (Esri)
 
 ---
 
